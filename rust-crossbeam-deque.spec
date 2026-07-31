@@ -5,8 +5,8 @@
 %global crate crossbeam-deque
 
 Name:           rust-%{crate}
-Version:        0.7.2
-Release:        2%{?dist}
+Version:        0.8.7
+Release:        1%{?dist}
 Summary:        Concurrent work-stealing deque
 
 # Upstream license specification: MIT/Apache-2.0
